@@ -1,10 +1,14 @@
-#Libraries
-- tailwind
-- radix
-https://www.radix-ui.com/primitives
+## Libraries used
 
- - Manipular data
-- date-fns
+#### CSS
+> tailwind
 
- - Icones
-- lucide react
+#### Components
+> radix
+> [ https://www.radix-ui.com/primitives ]
+
+#### Date manipulation
+> date-fns [ https://date-fns.org/ ]
+
+#### Icones
+> lucide react
