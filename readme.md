@@ -12,3 +12,6 @@
 
 #### Icones
 > lucide react
+
+#### Toast
+> sonner
